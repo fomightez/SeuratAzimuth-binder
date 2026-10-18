@@ -9,7 +9,6 @@ dependencies:
   - r-plyr
   - r-ggplot2
   - r-reshape2
-  - r-rcolorbrewer
   - hdf5
   - r-seurat
   - r-seurat-data
