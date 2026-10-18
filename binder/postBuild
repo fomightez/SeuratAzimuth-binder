@@ -1,0 +1,4 @@
+#!/bin/bash
+
+# install the R libraries that do not seem to be on conda-forge or bioconda/bioconductor so cannot use environment.yml to handle
+Rscript binder/more_installs.R
