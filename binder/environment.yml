@@ -5,10 +5,6 @@ channels:
 dependencies:
   - r-base=4.6.1
   - jupyter-rsession-proxy
-  - r-data.table
-  - r-plyr
-  - r-ggplot2
-  - r-reshape2
   - hdf5
   - r-seurat
   - r-seurat-data
