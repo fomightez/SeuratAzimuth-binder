@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - bioconda
 dependencies:
-  - r-base=4.6.1
+  - r-base=4.5.1
   - jupyter-rsession-proxy
   - r-data.table
   - r-plyr
