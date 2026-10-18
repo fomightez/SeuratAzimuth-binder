@@ -7,5 +7,4 @@ dependencies:
   - jupyter-rsession-proxy
   - hdf5
   - r-seurat
-  - r-seurat-data
  # - r-azimuth
