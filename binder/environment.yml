@@ -1,0 +1,17 @@
+name: Seurat and Azimuth environment
+channels:
+  - conda-forge
+  - bioconda
+dependencies:
+  - r-base=4.6.1
+  - jupyter-rsession-proxy
+  - r-data.table
+  - r-plyr
+  - r-ggplot2
+  - r-reshape2
+  - r-cowplot
+  - r-rcolorbrewer
+  - hdf5
+  - r-seurat
+  - r-seurat-data
+  - r-azimuth
