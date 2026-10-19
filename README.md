@@ -6,3 +6,7 @@ Repo for running Seurat and/or Azimuth via the MyBinder service
 ----------------------------
 
 I believe these will install fine in containers that can be run via the MyBinder service; however, I am curious if computational and networking abilities of MyBinder are limiting.
+
+DOESN'T QUITE WORK YET!!!:  
+Good thing I got this working locally because...  
+despite putting what worked local in `postBuild` and `more_installs.R`, I still cannot load `Seurat` or `Azimuth` in RStudio.
